@@ -29,3 +29,8 @@ This is a simple Streamlit web app that asks for your **name**, **age**, and **f
    ```bash
    git clone https://github.com/SharpKumar/personal-greeting-streamlit.git
    cd personal-greeting-streamlit
+
+   
+🙌 Author
+Sharp Kumar
+Founder & CEO – Sai Nandhini Digital Kingdom
