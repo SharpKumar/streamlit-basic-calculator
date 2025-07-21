@@ -34,3 +34,23 @@ This is a simple Streamlit web app that asks for your **name**, **age**, and **f
 🙌 Author
 Sharp Kumar
 Founder & CEO – Sai Nandhini Digital Kingdom
+
+echo "# Streamlit Basic Calculator
+
+This is a simple calculator built with Streamlit.
+
+🧮 Features:
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+
+To run:
+\`\`\`
+streamlit run Sharp_Basic_Calculator.py
+\`\`\`
+" > README.md
+
+git add README.md
+git commit -m "Added README.md"
+git push
